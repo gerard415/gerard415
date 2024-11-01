@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://gerard-portfolio.netlify.app/](https://gerard-portfolio.netlify.app/)
 
-- 💬 Ask me about **my programming journey**
+- 💬 Ask me about my programming journey
 
-- 📫 How to reach me **chinedumike85@gmail.com**
+- 📫 How to reach me: **chinedumike85@gmail.com**
 
-- ⚡ Fun fact **I love chess**
+- ⚡ Fun fact: **I love chess**
 
 **Connect With Me:**
 <p align="left">

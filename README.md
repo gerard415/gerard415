@@ -6,7 +6,7 @@
 
 - 🌱 I work with **Javascript, Node and AWS**
 
-- 🥅 2025 goals: Write about my process more and contribute to open source
+- 🥅 2025 goals: Write more tech articles and contribute to open source
 
 - 👨‍💻 All of my projects are available at [https://gerard-portfolio.netlify.app/](https://gerard-portfolio.netlify.app/)
 

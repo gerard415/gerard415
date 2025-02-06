@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a student at **TripleTen**
 
-- 🌱 I work with **Javascript, Node and AWS**
+- 🌱 I work with **TypeScript, React, Node and AWS**
 
 - 🥅 2025 goals: Write more tech articles and contribute to open source
 

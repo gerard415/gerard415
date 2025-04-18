@@ -8,7 +8,7 @@
 
 - 🥅 2025 goals: Write more tech articles and contribute to open source
 
-- 👨‍💻 All of my projects are available at [https://gerard-portfolio.netlify.app/](https://gerard-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gerardportfolio.netlify.app/](https://gerard-portfolio.netlify.app/)
 
 - 💬 Ask me about my programming journey
 
